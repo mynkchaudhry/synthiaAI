@@ -40,6 +40,7 @@ def display_navbar():
         .response-text {
             font-size: 20px;
             font-weight: bold;
+            color: black;
         }
         .sidebar-content {
             background-color: transparent;
@@ -60,7 +61,7 @@ def display_navbar():
         }
         /* New style for semi-transparent text area */
         .custom-text-area {
-            background-color: rgba(255, 255, 255, 0.5); /* Adjust the alpha value for transparency */
+            background-color: rgba(255, 255, 255, 0.9); /* Adjust the alpha value for transparency */
             border-radius: 5px;
             padding: 10px;
             margin-bottom: 10px;
