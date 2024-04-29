@@ -1,4 +1,6 @@
-Certainly! Here's a basic template for a README file for your GitHub repository:
+## SYNTHIA AI
+
+Demo:https://synthiaai.streamlit.app/
 
 ```markdown
 # SYNTHIA Chatbot
@@ -47,7 +49,7 @@ SYNTHIA is a simple chatbot application built using Streamlit, Groq API, and oth
 - **Conversational Memory Length:** Adjust the length of the chatbot's memory from 1 to 1000.
 
 
-## Screenshots
+## Preview
 
 ![SYNTHIA Chatbot Screenshot](https://github.com/mynkchaudhry/synthiaAI/blob/main/Demo.png)
 
