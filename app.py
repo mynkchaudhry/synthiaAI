@@ -146,10 +146,10 @@ def display_chat_history():
 
 def set_background_image(model):
     background_image = {
-        "mixtral-8x7b-32768": "https://static.vecteezy.com/system/resources/previews/021/835/780/original/artificial-intelligence-chatbot-assistance-background-free-vector.jpg",
-        "gemma-7b-it": "https://static.vecteezy.com/system/resources/previews/021/835/780/original/artificial-intelligence-chatbot-assistance-background-free-vector.jpg",
-        "llama3-70b-8192": "https://static.vecteezy.com/system/resources/previews/021/835/780/original/artificial-intelligence-chatbot-assistance-background-free-vector.jpg",
-        "llama3-8b-8192": "https://static.vecteezy.com/system/resources/previews/021/835/780/original/artificial-intelligence-chatbot-assistance-background-free-vector.jpg",
+        "mixtral-8x7b-32768": "https://cdn.pixabay.com/photo/2022/04/18/17/25/artwork-7141103_960_720.png",
+        "gemma-7b-it": "https://cdn.pixabay.com/photo/2022/04/18/17/25/artwork-7141103_960_720.png",
+        "llama3-70b-8192": "https://cdn.pixabay.com/photo/2022/04/18/17/25/artwork-7141103_960_720.png",
+        "llama3-8b-8192": "https://cdn.pixabay.com/photo/2022/04/18/17/25/artwork-7141103_960_720.png",
     }
 
     if model in background_image:
