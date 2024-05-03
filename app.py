@@ -125,12 +125,12 @@ def main():
 
     set_background_image(model)
 
-    st.markdown("""
-        <div class="footer">
-            <a href="https://www.linkedin.com/in/mynkchaudhry/">LinkedIn</a>
-            <a href="https://github.com/mynkchaudhry">Github</a>
-        </div>
-    """, unsafe_allow_html=True)
+    # st.markdown("""
+    #     # <div class="footer">
+    #     #     <a href="https://www.linkedin.com/in/mynkchaudhry/">LinkedIn</a>
+    #     #     <a href="https://github.com/mynkchaudhry">Github</a>
+    #     # </div>
+    # """, unsafe_allow_html=True)
 
 def clear_chat_history():
     st.session_state.chat_history = []
